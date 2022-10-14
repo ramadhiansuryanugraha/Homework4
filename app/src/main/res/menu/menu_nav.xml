@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list_coffee"
+        android:title="List Coffee"
+        android:icon="@drawable/ic_list_coffee"/>
+
+    <item
+        android:id="@+id/menu_favorite_coffee"
+        android:title="Favorite Coffee"
+        android:icon="@drawable/ic_favorite_coffee"/>
+
+
+</menu>
